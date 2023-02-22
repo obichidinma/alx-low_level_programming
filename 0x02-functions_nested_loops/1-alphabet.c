@@ -3,7 +3,7 @@
  * print_alphabet - function that prints alphabet in lower case
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
 char letter;
 for (letter = 'a'; letter <= 'z'; letter++)
