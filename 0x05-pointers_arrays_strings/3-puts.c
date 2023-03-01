@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _put - print a string to the stdout
+ * _puts - print a string to the stdout
  * @str: the string
  * Retun: the length of the string
  */
